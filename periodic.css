@@ -1,0 +1,64 @@
+h1{
+    background-color:pink;
+    text-align: center;
+    /* flex: auto; */
+    font-weight: bold;
+    line-height: 50px;
+    text-align:justify;
+    border-radius: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+
+}
+td{
+    width: 80px;
+  height: 10px;
+  text-align: center;
+   border: 0.5px solid black; 
+   border-radius: 10px;
+   /* border-style: none; */
+   border-color: black;
+    text-align: center;
+    
+
+}
+body{
+    background-color: rgb(250, 248, 248);
+}
+
+
+.color_aqua{
+    background-color: aqua;
+}
+
+.color_magenta{
+    background-color: palevioletred;
+}
+
+.color_plum{
+    background-color: magenta;
+}
+
+.color_skin{
+    background-color: rgb(207, 166, 114);
+}
+
+.color_pink{
+    background-color: rgb(223, 40, 101);
+}
+
+.color_neon{
+    background-color: aquamarine;
+}
+
+.color_purple{
+    background-color: rgb(224, 147, 224);
+}
+.color_orange{
+    background-color: orange;
+}.color_red{
+    background-color: rgb(206, 138, 99);
+}
+.color_pastel{
+    background-color: pink;
+}
